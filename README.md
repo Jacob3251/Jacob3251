@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings from Adil aka Jacob 👋
+- 🔭 I’m currently working on My University Final Project Lu-Community-Forum
+You can contact me by mailing on [Gmail](mailto:jacobfrye3251@gmail.com)
+My LinkedIn profile is linked below feel free to contact me there - 
+## [LinkedIn](https://www.linkedin.com/in/md-nayeem-hasan-adil/)
+
 
 <!--
 **Jacob3251/Jacob3251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
