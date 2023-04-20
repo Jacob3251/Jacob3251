@@ -1,7 +1,7 @@
 # Greetings from Adil aka Jacob 👋
-### - 🔭 I’m currently working on My University Final Project Lu-Community-Forum  
+### - 🔭 I’m currently completed working on My University Final Project Lu-Community-Forum  
 Here's what I've done on that project [LuCommunity Forum](https://lucommunityforum.netlify.app/) 
-
+Note: The server is not working in the backend as I don't have a paid subscription on Railway
 ## You can contact me by mailing on 📫 [Gmail](mailto:jacobfrye3251@gmail.com)  
 
 
