@@ -28,7 +28,7 @@ I'm a passionate software developer with expertise in both frontend and backend 
 
 ### 📫 **Connect with Me:**
 
-- **LinkedIn:** [linkedInLink](www.linkedin.com/in/md-nayeem-hasan-adil)
-- **Facebook:** [facebookLink](https://www.facebook.com/nayeem.hasan.982)
+- **[LinkedIn](https://www.linkedin.com/in/md-nayeem-hasan-adil/)** 
+- **[Facebook](https://www.facebook.com/nayeem.hasan.982)**
 
 I'm always eager to learn new technologies and collaborate on exciting projects. Feel free to reach out to me!
