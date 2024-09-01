@@ -1,30 +1,34 @@
-# Greetings from Adil aka Jacob 👋
-## MERN STACK DEV
-## You can contact me by mailing on 📫 [Gmail](mailto:jacobfrye3251@gmail.com)  
+# 👋 Hi, I'm Md Nayeem Hasan Adil
 
+I'm a passionate software developer with expertise in both frontend and backend technologies. I specialize in building dynamic, responsive, and scalable web applications.
 
-My LinkedIn and Social Logins Profile's are listed below feel free to contact me there -
-*  💬 [LinkedIn](https://www.linkedin.com/in/md-nayeem-hasan-adil/)
-*  💬 [Facebook](https://www.facebook.com/nayeem.hasan.982/)
-*  💬[Instagram](https://www.instagram.com/hasan_adil3251/)
-<!--
-**Jacob3251/Jacob3251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ **Tech Stack:**
 
-Here are some ideas to get you started:
+- **Frontend:**
+  - React | HTML | CSS | SCSS | Tailwind CSS | Bootstrap
+- **State Management:**
+  - Redux | Zustand | Context API
+- **Backend:**
+  - Node.js | Express.js
+- **Databases:**
+  - MySQL | PostgreSQL | MongoDB
+- **ORMs:**
+  - Prisma | Mongoose
+- **Languages:**
+  - TypeScript | JavaScript
+- **Email Handling:**
+  - Nodemailer (Gmail SMTP, Mailgun, Mailtrap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 **About Me:**
 
+- **Name:** Md Nayeem Hasan Adil
+- **Location:** Sylhet, Bangladesh
+- **Age:** 26 years
+- **Email:** [jacobfrye3251@gmail.com](mailto:jacobfrye3251@gmail.com)
 
-<!--
-## Here are some of my recent projects
+### 📫 **Connect with Me:**
 
-* ## [Hotel Heaven](https://hotel-heaven-88ae2.web.app/) [GitRepo Link](https://github.com/Jacob3251/Hotel-Mania)
-* ## [NotePads Online by Adil](https://notepadsonlinewebproject.netlify.app/) [GitRepo Link](https://github.com/Jacob3251/todo-react-supa) -->
+- **LinkedIn:** [linkedInLink](linkedInLink)
+- **Facebook:** [facebookLink](facebookLink)
+
+I'm always eager to learn new technologies and collaborate on exciting projects. Feel free to reach out to me!
