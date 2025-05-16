@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Md Nayeem Hasan Adil
 
 I'm a passionate software developer with expertise in both frontend and backend technologies. I specialize in building dynamic, responsive, and scalable web applications.
+I am now preparaing my-self for AWS cloud practioner.
 
 ### 🛠️ **Tech Stack:**
 
@@ -22,8 +23,8 @@ I'm a passionate software developer with expertise in both frontend and backend 
 ### 🌍 **About Me:**
 
 - **Name:** Md Nayeem Hasan Adil
-- **Location:** Sylhet, Bangladesh
-- **Age:** 26 years
+- **Location:** Birmingham, United Kingdom
+- **Age:** 27 years
 - **Email:** [jacobfrye3251@gmail.com](mailto:jacobfrye3251@gmail.com)
 
 ### 📫 **Connect with Me:**
